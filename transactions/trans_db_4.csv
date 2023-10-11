@@ -1,0 +1,63 @@
+id,transaction
+0,pencil
+0,notebook
+0,pen
+0,conditioner
+1,water bottle
+1,conditioner
+1,shampoo
+1,body wash
+2,jacket
+2,sweater
+2,jeans
+3,headphones
+3,speakers
+4,jeans
+4,jacket
+4,socks
+5,multivitamin
+5,creamer
+5,coffee
+6,socks
+6,shoes
+6,jacket
+6,pen
+6,novel
+6,notebook
+7,body wash
+7,conditioner
+7,shampoo
+8,jacket
+8,t-shirt
+9,shampoo
+9,conditioner
+10,jacket
+10,water bottle
+11,video game
+11,guitar
+11,picture frame
+11,bananas
+11,keyboard
+12,body wash
+13,multivitamin
+13,tooth paste
+13,tooth brush
+14,tooth paste
+14,floss
+14,video game
+15,socks
+15,shoes
+16,laptop
+16,chair
+16,video game
+17,seltzer
+17,coffee
+17,bananas
+17,jacket
+18,guitar
+18,laptop
+18,keyboard
+19,shampoo
+19,body wash
+19,conditioner
+19,floss
